@@ -1,0 +1,20 @@
+author: DrakkarSoftware
+description: ''
+name: tentacle_package.zip
+repository: Unknown repository location
+short-name: tentacle_package.zip
+tags: []
+tentacles:
+- generic_exchange_importer@1.2.0
+- instant_fluctuations_evaluator@1.2.0
+- other_instant_fluctuations_evaluator@1.2.0
+- forum_evaluator@1.2.0
+- mixed_strategies_evaluator@1.2.0
+- overall_state_analysis@1.2.0
+- text_analysis@1.2.0
+- scripted_lib@1.2.0
+- reddit_service@1.2.0
+- reddit_service_feed@1.2.0
+- daily_trading_mode@1.2.0
+type: tentacle_package
+version: unknown_version

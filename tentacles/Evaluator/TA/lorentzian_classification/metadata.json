@@ -1,0 +1,6 @@
+{
+  "version": "0.4.0",
+  "origin_package": "Lorentzian-Classification",
+  "tentacles": ["LorentzianClassificationEvaluator"],
+  "tentacles-requirements": ["matrix_basic_keywords"]
+}

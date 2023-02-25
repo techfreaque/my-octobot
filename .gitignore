@@ -1,0 +1,4 @@
+*.pyc
+/octobot-packages/Async-Channel/build/
+/octobot-packages/OctoBot-Commons/build/
+/octobot-packages/OctoBot-evaluators/build/

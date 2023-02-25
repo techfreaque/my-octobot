@@ -1,0 +1,30 @@
+{
+    "installation_context": {
+        "octobot_version": "0.4.40"
+    },
+    "registered_tentacles": {
+        "OctoBot-Default-Tentacles": "tests\\static\\tentacles.zip"
+    },
+    "tentacle_activation": {
+        "Backtesting": {
+            "GenericExchangeDataImporter": true
+        },
+        "Evaluator": {
+            "InstantFluctuationsEvaluator": false,
+            "OtherInstantFluctuationsEvaluator": false,
+            "OverallStateAnalyser": true,
+            "RedditForumEvaluator": false,
+            "SecondOtherInstantFluctuationsEvaluator": false,
+            "SimpleMixedStrategyEvaluator": false,
+            "TextAnalysis": true
+        },
+        "Meta": {},
+        "Services": {
+            "RedditService": true,
+            "RedditServiceFeed": true
+        },
+        "Trading": {
+            "DailyTradingMode": false
+        }
+    }
+}

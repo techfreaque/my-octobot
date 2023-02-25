@@ -1,0 +1,6 @@
+{
+  "version": "1",
+  "origin_package": "matrix-strategy-maker",
+  "tentacles": ["trade_analysis"],
+  "tentacles-requirements": []
+}
